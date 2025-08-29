@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Bengaluru
 Line 1,Line 2, Line 3, Line 4.......
+=======
+Hello, How are you
+>>>>>>> notebook
