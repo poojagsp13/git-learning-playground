@@ -4,3 +4,7 @@ Line 1,Line 2, Line 3, Line 4.......
 =======
 Hello, How are you
 >>>>>>> notebook
+Today I learned some Git commands.
+It’s a sunny day outside.
+Need to grab a cup of coffee.
+Working on practice branches
